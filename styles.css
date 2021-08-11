@@ -1,13 +1,32 @@
 body{
-    margin: 25px 50px 75px;
+    margin: 8px;
+    display: inline-block;
+    padding: 1.25em;
     background-color: #02001b;
     color: #c6c6c6;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+
+#mainheading{
+    color: red;
+    text-align: center;
 }
 
 
 h2.places{
     color: orange;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
     
+}
+
+#testp{
+    font-style:italic;
+}
+
+p.funParagraph{
+    color:lime
 }
 
 footer{
@@ -18,5 +37,6 @@ footer{
 #subheader{
     font-style: italic;
 }
+
 
 
